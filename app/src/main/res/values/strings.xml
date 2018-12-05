@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accelerometer Shake Detector</string>
+    <string name="shakeCommand">Silahkan shake device anda</string>
+    <string name="shakeCounter">0 shakes</string>
+</resources>
